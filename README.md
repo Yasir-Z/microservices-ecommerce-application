@@ -2,7 +2,7 @@
 
 ## Overview
 
-CloudShop is a production-inspired microservices application built to demonstrate modern DevOps practices from application development through deployment, monitoring, and visualization.
+This is production-inspired microservices application plateform built to demonstrate modern DevOps practices from application development through deployment, monitoring, and visualization.
 
 This project showcases how a DevOps engineer can build, containerize, deploy, monitor, and operate a Kubernetes-based microservices application using industry-standard tools.
 
@@ -100,7 +100,7 @@ Order Service (/metrics)
 # Repository Structure
 
 ```text
-cloudshop-microservices-project/
+microservices-ecommerce-application/
 
 ├── frontend/
 ├── user-service/
