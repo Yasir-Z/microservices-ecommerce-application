@@ -324,7 +324,7 @@ This project demonstrates practical experience with:
 
 ## GitHub Repository
 
-https://github.com/Yasir-Z/cloudshop-microservices-project
+https://github.com/Yasir-Z/microservices-ecommerce-application
 
 ---
 
