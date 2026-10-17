@@ -1,4 +1,4 @@
-# CloudShop Microservices DevOps Project
+# Microservices E-commerce Plateform 
 
 ## Overview
 
